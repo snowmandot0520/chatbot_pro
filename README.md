@@ -1,4 +1,5 @@
 # Room-Booking-Chatbot
 
 ## Demo
-!(demo)[https://github.com/heflinstephenraj/Room-Booking-Chatbot/blob/main/demo.gif?raw=true]
+
+![Room booking chatbot - Demo](https://github.com/heflinstephenraj/Room-Booking-Chatbot/blob/main/demo.gif?raw=true)
