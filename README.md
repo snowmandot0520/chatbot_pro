@@ -28,3 +28,4 @@ Download or Clone this repo on your local machine
 15. Come Back to your IBM Watson Assistant. Go to "Option > Webhooks" from the side bar of your IBM Watson Assistant. Then past the URL (Note: Add .json at the end of the URL).
 
 That's it. We have successfully developed our AI Room Booking Chatbot.
+If you have any questions, Contact me at https://www.heflin.dev/hello
