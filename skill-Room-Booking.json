@@ -1185,12 +1185,20 @@
       "type": "standard",
       "title": "Opening",
       "output": {
-        "text": {
-          "values": [
-            "Hello, I’m a demo customer care virtual assistant to show you the basics.  I can help with directions to my store, hours of operation and booking an in-store appointment"
-          ],
-          "selection_policy": "sequential"
-        }
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello, I’m a AI room booking virtual assistant to show you the basics.  "
+              },
+              {
+                "text": "I can help with directions to our hotel, hours of operation and booking a room."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
       },
       "context": {
         "no_reservation": true
